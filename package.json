@@ -5,7 +5,7 @@
   "author": "Mayk Brito <mayk@rocketseat.com.br>",
   "license": "MIT",
   "scripts": {
-    "dev": "node --max_old_space_size=4096 app.js"
+    "dev": "node bot.js"
   },
   "dependencies": {
     "axios": "^0.19.0",
